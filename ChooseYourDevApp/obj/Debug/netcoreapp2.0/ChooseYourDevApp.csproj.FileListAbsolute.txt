@@ -1,0 +1,12 @@
+/Users/tguillouet/Desktop/Cours/dotnet/ChooseYourDevApp/ChooseYourDevApp/bin/Debug/netcoreapp2.0/ChooseYourDevApp.deps.json
+/Users/tguillouet/Desktop/Cours/dotnet/ChooseYourDevApp/ChooseYourDevApp/bin/Debug/netcoreapp2.0/ChooseYourDevApp.runtimeconfig.json
+/Users/tguillouet/Desktop/Cours/dotnet/ChooseYourDevApp/ChooseYourDevApp/bin/Debug/netcoreapp2.0/ChooseYourDevApp.runtimeconfig.dev.json
+/Users/tguillouet/Desktop/Cours/dotnet/ChooseYourDevApp/ChooseYourDevApp/bin/Debug/netcoreapp2.0/ChooseYourDevApp.dll
+/Users/tguillouet/Desktop/Cours/dotnet/ChooseYourDevApp/ChooseYourDevApp/bin/Debug/netcoreapp2.0/ChooseYourDevApp.pdb
+/Users/tguillouet/Desktop/Cours/dotnet/ChooseYourDevApp/ChooseYourDevApp/obj/Debug/netcoreapp2.0/ChooseYourDevApp.csproj.CoreCompileInputs.cache
+/Users/tguillouet/Desktop/Cours/dotnet/ChooseYourDevApp/ChooseYourDevApp/obj/Debug/netcoreapp2.0/ChooseYourDevApp.AssemblyInfoInputs.cache
+/Users/tguillouet/Desktop/Cours/dotnet/ChooseYourDevApp/ChooseYourDevApp/obj/Debug/netcoreapp2.0/ChooseYourDevApp.AssemblyInfo.cs
+/Users/tguillouet/Desktop/Cours/dotnet/ChooseYourDevApp/ChooseYourDevApp/obj/Debug/netcoreapp2.0/ChooseYourDevApp.dll
+/Users/tguillouet/Desktop/Cours/dotnet/ChooseYourDevApp/ChooseYourDevApp/obj/Debug/netcoreapp2.0/ChooseYourDevApp.pdb
+/Users/tguillouet/Desktop/Cours/dotnet/ChooseYourDevApp/ChooseYourDevApp/obj/Debug/netcoreapp2.0/ChooseYourDevApp.csprojResolveAssemblyReference.cache
+/Users/tguillouet/Desktop/Cours/dotnet/ChooseYourDevApp/ChooseYourDevApp/bin/Debug/netcoreapp2.0/DB/Dev.db

@@ -1,0 +1,31 @@
+﻿<Properties StartupConfiguration="{BC2689E7-935D-43F4-89D6-F3B6A5547090}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="ChooseYourDevApp/Startup.cs">
+    <Files>
+      <File FileName="ChooseYourDevApp/Models/Dev.cs" Line="6" Column="2" />
+      <File FileName="ChooseYourDevApp/Views/Shared/_Layout.cshtml" Line="29" Column="1" />
+      <File FileName="ChooseYourDevApp/Startup.cs" Line="50" Column="47" />
+      <File FileName="ChooseYourDevApp/Views/Dev/index.cshtml" Line="110" Column="26" />
+      <File FileName="ChooseYourDevApp/Models/DevContext.cs" Line="12" Column="9" />
+      <File FileName="ChooseYourDevApp/Program.cs" Line="25" Column="20" />
+      <File FileName="ChooseYourDevApp/Controllers/HomeController.cs" Line="26" Column="10" />
+      <File FileName="ChooseYourDevApp/Models/SeedData.cs" Line="5" Column="1" />
+      <File FileName="ChooseYourDevApp/wwwroot/css/site.css" Line="46" Column="1" />
+      <File FileName="ChooseYourDevApp/Views/Dev/Create.cshtml" Line="55" Column="26" />
+      <File FileName="ChooseYourDevApp/Controllers/DevController.cs" Line="36" Column="60" />
+      <File FileName="ChooseYourDevApp/Views/Dev/Edit.cshtml" Line="56" Column="26" />
+      <File FileName="ChooseYourDevApp/Views/Dev/Details.cshtml" Line="55" Column="26" />
+      <File FileName="ChooseYourDevApp/Views/Dev/Delete.cshtml" Line="58" Column="26" />
+      <File FileName="ChooseYourDevApp/Views/Dev/Contact.cshtml" Line="19" Column="26" />
+      <File FileName="ChooseYourDevApp/Views/Dev/About.cshtml" Line="17" Column="26" />
+      <File FileName="ChooseYourDevApp/wwwroot/css/site.min.css" Line="1" Column="1" />
+      <File FileName="ChooseYourDevApp/Views/_ViewStart.cshtml" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.ChooseYourDevApp PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>
